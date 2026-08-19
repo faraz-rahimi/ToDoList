@@ -4,7 +4,7 @@ A modern, fast, and fully functional Todo List application built with React and 
 
 ## 💻 Run this app on your sistem
 
-npm install @rahimi2026frontend-developer/todo-list-app
+open your terminal and type npm install @rahimi2026frontend-developer/todo-list-app
 
 ## ✨ Features
 * **Add Tasks:** Quickly add new tasks to your daily list.
