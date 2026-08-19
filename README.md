@@ -1,18 +1,40 @@
-# React + Vite
+# 📝 React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fast, and fully functional Todo List application built with React and Vite. This project helps users manage their daily tasks efficiently with a clean and intuitive user interface.
 
-Currently, two official plugins are available:
+## # 📝 React Todo List App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern, fast, and fully functional Todo List application built with React and Vite. This project helps users manage their daily tasks efficiently with a clean and intuitive user interface.
 
-## React Compiler
+## 💻 Run this app on your sistem
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+npm install @rahimi2026frontend-developer/todo-list-app
 
-Note: This will impact Vite dev & build performances.
+## ✨ Features
+* **Add Tasks:** Quickly add new tasks to your daily list.
+* **Mark as Complete:** Toggle tasks between active and completed states.
+* **Delete Tasks:** Easily remove tasks you no longer need.
+* **Data Persistence:** All tasks are saved automatically in the browser's `Local Storage`, so your data remains safe even if you refresh or close the page.
+* **Modern UI:** A clean, responsive, and user-friendly interface with smooth hover effects.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
+* **React.js** (Functional Components, Hooks: `useState`, `useEffect`)
+* **Vite** (Next Generation Frontend Tooling)
+* **CSS3** (Modern styling and responsive design)
+* **JavaScript (ES6+)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+* **Add Tasks:** Quickly add new tasks to your daily list.
+* **Mark as Complete:** Toggle tasks between active and completed states.
+* **Delete Tasks:** Easily remove tasks you no longer need.
+* **Data Persistence:** All tasks are saved automatically in the browser's `Local Storage`, so your data remains safe even if you refresh or close the page.
+* **Modern UI:** A clean, responsive, and user-friendly interface with smooth hover effects.
+
+## 🛠️ Technologies Used
+* **React.js** (Functional Components, Hooks: `useState`, `useEffect`)
+* **Vite** (Next Generation Frontend Tooling)
+* **CSS3** (Modern styling and responsive design)
+* **JavaScript (ES6+)**
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
