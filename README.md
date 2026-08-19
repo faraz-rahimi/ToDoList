@@ -2,10 +2,6 @@
 
 A modern, fast, and fully functional Todo List application built with React and Vite. This project helps users manage their daily tasks efficiently with a clean and intuitive user interface.
 
-## # 📝 React Todo List App
-
-A modern, fast, and fully functional Todo List application built with React and Vite. This project helps users manage their daily tasks efficiently with a clean and intuitive user interface.
-
 ## 💻 Run this app on your sistem
 
 npm install @rahimi2026frontend-developer/todo-list-app
